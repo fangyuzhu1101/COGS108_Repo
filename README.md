@@ -1,0 +1,1 @@
+This is a practice with Github for Assignment 1 of COGS108.
